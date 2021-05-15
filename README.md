@@ -27,6 +27,6 @@ Among the source files is GameModel.java which is the class that encapsulates:
 - *GameModel.getRequestor()* is the factory method to instantiate the IRequestor for the view. GameModel directly implements the IModelManager interface.
 - GameModel.java has a method called getPlayers(). In this method, the code to add players playing the strategies.
 
-For more info please review the following paper: https://github.com/UTDClassroom/GameFramework/blob/master/DesignPatternForGames.pdf
+For more info please review the following paper: https://github.com/codebankss/othello/blob/main/DesignPatternForGames.pdf
 
 Be sure to document (in javadoc style) all the code you write.
